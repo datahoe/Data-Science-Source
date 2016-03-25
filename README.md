@@ -37,7 +37,12 @@ This repository contains some useful learning source, it is more than wellcome t
 * 
 
 ## Deep learning 
-* [stackexchange](http://stats.stackexchange.com/)
+
+
+* [tensorflow](https://www.tensorflow.org/)
+* [Theano guide](http://folinoid.com/show/theano/)
+* [Software collection](http://deeplearning.net/software_links/)
+
 
 ## Mis
 
