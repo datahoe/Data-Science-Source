@@ -6,8 +6,8 @@ This repository contains some useful learning source, it is more than wellcome t
 
 ## Machine Learning
 #### SVM
-* [Introduction Book by John Shawe](http://www.support-vector.net/) - A C library for product recommendations/suggestions using collaborative filtering (CF).
-* [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+* [Introduction Book by John Shawe](http://www.support-vector.net/)
+* [Kernel Methods for Pattern Analysis(Book)] (http://www.kernel-methods.net/chinese.html)
 
 ### Visualization
 
