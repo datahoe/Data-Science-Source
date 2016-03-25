@@ -5,7 +5,7 @@ This repository contains some useful learning source, it is more than wellcome t
 ### R
 
 ## Machine Learning
-1. SVM
+1. SVM  
    *
 
 ### Visualization
