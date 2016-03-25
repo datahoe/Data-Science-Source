@@ -26,12 +26,16 @@ This repository contains some useful learning source, it is more than wellcome t
 
 
 
-### Vistualization
-#### Tools
+## Vistualization
+### Tools
 * [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html)
 
-### Statistics
-* [stackexchange]http://stats.stackexchange.com/
+## Statistics
+* [stackexchange](http://stats.stackexchange.com/)
+* 
+
+## Mis
+* [Data Science degree] (http://101.datascience.community/2012/04/09/colleges-with-data-science-degrees/)
 
 
 
