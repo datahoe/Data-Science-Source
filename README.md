@@ -29,13 +29,32 @@ This repository contains some useful learning source, it is more than wellcome t
 ## Vistualization
 ### Tools
 * [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html)
-
+* [Vega-Lite](https://medium.com/@uwdata/introducing-vega-lite-438f9215f09e#.dr8cpgvxl)
+* [timeviz](http://survey.timeviz.net/)
+* [shinydashboard](http://rstudio.github.io/shinydashboard/)
 ## Statistics
 * [stackexchange](http://stats.stackexchange.com/)
 * 
 
+## Deep learning 
+* [stackexchange](http://stats.stackexchange.com/)
+
 ## Mis
-* [Data Science degree] (http://101.datascience.community/2012/04/09/colleges-with-data-science-degrees/)
+
+* [Data Science degree] (http://datascience.community/colleges)
+* [Data Science degree] (http://www.datamonkey.pro/)
+* 
+### Startup by academic
+* [aunalytics](http://www.aunalytics.com/why-data-analytics/)
+*
+
+### Startup by academic
+
+* [Large Scale Machine Learning--An Engineering Perspective] (http://blog.csdn.net/lovetheme/article/details/49536279)
+* [quandl datasets] (https://www.quandl.com/browse)
+* 
+
+
 
 
 
