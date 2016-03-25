@@ -5,7 +5,9 @@ This repository contains some useful learning source, it is more than wellcome t
 ### R
 
 ## Machine Learning
-#### *SVM
+#### SVM
+- Book by John Shawe-Taylor [GitHub](http://www.support-vector.net/)
+- 
 
 ### Visualization
 
