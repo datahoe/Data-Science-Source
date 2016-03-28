@@ -17,6 +17,7 @@ This repository contains some useful learning source, it is more than wellcome t
 * [Vega-Lite](https://medium.com/@uwdata/introducing-vega-lite-438f9215f09e#.dr8cpgvxl)
 * [timeviz](http://survey.timeviz.net/)
 * [shinydashboard](http://rstudio.github.io/shinydashboard/)
+* [dimplejs] (http://dimplejs.org/)
 
 
 ## Statistics
@@ -26,6 +27,7 @@ This repository contains some useful learning source, it is more than wellcome t
 * [tensorflow](https://www.tensorflow.org/)
 * [Theano guide](http://folinoid.com/show/theano/)
 * [Software collection](http://deeplearning.net/software_links/)
+* [PPt by Yann LeCun] (http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403182818&idx=1&sn=7d4a8f11e61573183c1797addaacf937&scene=0#wechat_redirect)
 
 
 ## Mis
