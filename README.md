@@ -18,6 +18,7 @@ This repository contains some useful learning source, it is more than wellcome t
 * [timeviz](http://survey.timeviz.net/)
 * [shinydashboard](http://rstudio.github.io/shinydashboard/)
 * [dimplejs] (http://dimplejs.org/)
+* [setosa] (http://setosa.io/#/)
 
 
 ## Statistics
