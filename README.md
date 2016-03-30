@@ -37,7 +37,7 @@ This repository contains some useful learning source, it is more than wellcome t
 * [aunalytics] (http://www.aunalytics.com/why-data-analytics/)
 * [Large Scale Machine Learning--An Engineering Perspective] (http://blog.csdn.net/lovetheme/article/details/49536279)
 * [quandl datasets] (https://www.quandl.com/browse)
-
+* [paveiq] (https://www.paveiq.com/#)
 
 
 
