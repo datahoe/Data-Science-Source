@@ -31,6 +31,10 @@ This repository contains some useful learning source, it is more than wellcome t
 * [PPt by Yann LeCun] (http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403182818&idx=1&sn=7d4a8f11e61573183c1797addaacf937&scene=0#wechat_redirect)
 
 
+## Public data
+* [World Bank](https://www.tensorflow.org/)
+
+
 ## Mis
 * [Data Science degree] (http://datascience.community/colleges)
 * [datamonkey] (http://www.datamonkey.pro/)
