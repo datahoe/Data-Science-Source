@@ -29,6 +29,7 @@ This repository contains some useful learning source, it is more than wellcome t
 * [Theano guide](http://folinoid.com/show/theano/)
 * [Software collection](http://deeplearning.net/software_links/)
 * [PPt by Yann LeCun] (http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403182818&idx=1&sn=7d4a8f11e61573183c1797addaacf937&scene=0#wechat_redirect)
+* [TensorFlow Scan Examples] (http://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb)
 
 
 ## Public data
@@ -43,6 +44,13 @@ This repository contains some useful learning source, it is more than wellcome t
 * [quandl datasets] (https://www.quandl.com/browse)
 * [paveiq] (https://www.paveiq.com/#)
 * [Math basic by Smola] (https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
+* 
+## System
+* [paveiq] (http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411129391&idx=1&sn=ebf06fb5cc4a5f57f86341ba4114cab8&scene=1&srcid=040
+##
+
+
+
 
 
 
