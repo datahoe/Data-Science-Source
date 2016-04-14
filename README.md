@@ -47,7 +47,10 @@ This repository contains some useful learning source, it is more than wellcome t
 * 
 ## System
 * [paveiq] (http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411129391&idx=1&sn=ebf06fb5cc4a5f57f86341ba4114cab8&scene=1&srcid=040
-##
+## 
+* [csdn knowledge lib](http://lib.csdn.net/)
+
+## Big data
 
 
 
