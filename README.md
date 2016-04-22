@@ -42,7 +42,7 @@ This repository contains some useful learning source, it is more than wellcome t
 * [aunalytics] (http://www.aunalytics.com/why-data-analytics/)
 * [Large Scale Machine Learning--An Engineering Perspective] (http://blog.csdn.net/lovetheme/article/details/49536279)
 * [quandl datasets] (https://www.quandl.com/browse)
-* [paveiq] (https://www.paveiq.com/#)
+
 * [Math basic by Smola] (https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
 * [list of open source software] (https://yq.aliyun.com/articles/30794#15)
 
@@ -55,6 +55,7 @@ This repository contains some useful learning source, it is more than wellcome t
 ## Start-up
 
 * [wiseathena](http://wiseathena.com/)
+* [paveiq] (https://www.paveiq.com/#)
 
 
 
