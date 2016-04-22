@@ -45,14 +45,14 @@ This repository contains some useful learning source, it is more than wellcome t
 * [paveiq] (https://www.paveiq.com/#)
 * [Math basic by Smola] (https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
 * [list of open source software] (https://yq.aliyun.com/articles/30794#15)
+
 ## System
 * [paveiq] (http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411129391&idx=1&sn=ebf06fb5cc4a5f57f86341ba4114cab8&scene=1&srcid=040
-## 
 * [csdn knowledge lib](http://lib.csdn.net/)
 
 ## Big data
 
-## start-up
+## Start-up
 
 * [wiseathena](http://wiseathena.com/)
 
