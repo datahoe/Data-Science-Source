@@ -54,8 +54,9 @@ This repository contains some useful learning source, it is more than wellcome t
 
 ## Start-up
 
-* [wiseathena](http://wiseathena.com/)
+* [AI Startups list](https://github.com/lipiji/AIStartups)
 * [paveiq] (https://www.paveiq.com/#)
+* 
 
 
 
