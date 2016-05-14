@@ -59,6 +59,12 @@ This repository contains some useful learning source, it is more than wellcome t
 * [paveiq] (https://www.paveiq.com/#)
 
 * [Machine learning tutorial] (https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+* 
+
+## Institute
+
+* [Imperial College data science Institute] (https://www.imperial.ac.uk/data-science/)
+* [Turing Institute] (https://turing.ac.uk/)
 
 
 
