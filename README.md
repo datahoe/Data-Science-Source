@@ -65,6 +65,8 @@ This repository contains some useful learning source, it is more than wellcome t
 
 * [Imperial College data science Institute] (https://www.imperial.ac.uk/data-science/)
 * [Turing Institute] (https://turing.ac.uk/)
+* [Tsinghua University Data Science Institute] (http://www.ids.tsinghua.edu.cn/index.php#)
+* [
 
 
 
