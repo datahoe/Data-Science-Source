@@ -2,18 +2,18 @@
 This repository contains some useful learning source, it is more than wellcome to contribute your collection.
 
 ## Machine Learning
-* SVM
-   * [Introduction Book by John Shawe](http://www.support-vector.net/)
-   * [Kernel Methods for Pattern Analysis (Book)] (http://www.kernel-methods.net/chinese.html)
-   * [pluskid' tuturial]  (http://blog.pluskid.org/?page_id=683)
+#### SVM
+  * [Introduction Book by John Shawe](http://www.support-vector.net/)
+  * [Kernel Methods for Pattern Analysis (Book)] (http://www.kernel-methods.net/chinese.html)
+  * [pluskid' tuturial]  (http://blog.pluskid.org/?page_id=683)
 
-* Information Theory
-   * [CMU course](http://www.cs.cmu.edu/~aarti/Class/10704_Spring15/lecs.html)
-
-* Multitask-learning
-   * [Source Collection](http://forum.memect.com/blog/thread/multitask-learning-%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/)
+#### Information Theory
+  * [CMU course](http://www.cs.cmu.edu/~aarti/Class/10704_Spring15/lecs.html)
+#### Multitask-learning
+  * [Source Collection](http://forum.memect.com/blog/thread/multitask-learning-%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/)
 
 ## Vistualization
+
 * [htmlwidgets for R](http://www.htmlwidgets.org/showcase_leaflet.html)
 * [Vega-Lite](https://medium.com/@uwdata/introducing-vega-lite-438f9215f09e#.dr8cpgvxl)
 * [timeviz](http://survey.timeviz.net/)
