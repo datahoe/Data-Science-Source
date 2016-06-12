@@ -26,9 +26,12 @@ This repository contains some useful learning source, it is more than wellcome t
 
 ## Deep learning 
 #### Tensorflow
-* [tensorflow](https://www.tensorflow.org/)
+* [Tensorflow](https://www.tensorflow.org/)
 * [TensorFlow Scan Examples] (http://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb)
 * [awesome-tensorflow] (https://github.com/jtoy/awesome-tensorflow/)
+* [TensorFlow examples] (http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
+
+
 #### Theano
 * [Theano guide](http://folinoid.com/show/theano/)
 * 
