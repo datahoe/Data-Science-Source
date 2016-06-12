@@ -21,17 +21,26 @@ This repository contains some useful learning source, it is more than wellcome t
 * [dimplejs] (http://dimplejs.org/)
 * [setosa] (http://setosa.io/#/)
 
-
 ## Statistics
 * [stackexchange](http://stats.stackexchange.com/)
 
 ## Deep learning 
+#### Tensorflow
 * [tensorflow](https://www.tensorflow.org/)
-* [Theano guide](http://folinoid.com/show/theano/)
-* [Software collection](http://deeplearning.net/software_links/)
-* [PPt by Yann LeCun] (http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403182818&idx=1&sn=7d4a8f11e61573183c1797addaacf937&scene=0#wechat_redirect)
 * [TensorFlow Scan Examples] (http://nbviewer.jupyter.org/github/rdipietro/tensorflow-notebooks/blob/master/tensorflow_scan_examples/tensorflow_scan_examples.ipynb)
 * [awesome-tensorflow] (https://github.com/jtoy/awesome-tensorflow/)
+#### Theano
+* [Theano guide](http://folinoid.com/show/theano/)
+* 
+#### Torch
+
+#### Caffe
+
+#### MXNet
+
+* [Software collection](http://deeplearning.net/software_links/)
+* [PPt by Yann LeCun] (http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403182818&idx=1&sn=7d4a8f11e61573183c1797addaacf937&scene=0#wechat_redirect)
+
 
 
 ## Public data
