@@ -72,6 +72,11 @@ This repository contains some useful learning source, it is more than wellcome t
 
 ## Online learning website
 * [Big university] (http://bigdatauniversity.com/)
+* 
+
+## Other source
+* [Machine Learning & Deep Learning Tutorials] (https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+
 
 
 
