@@ -93,6 +93,7 @@ This repository contains some useful learning source, it is more than wellcome t
 ## R & Python
 
 * [start R from here] (https://github.com/rstudio/RStartHere)
+* [Awesome R] (https://github.com/qinwf/awesome-R)
 
 
 
