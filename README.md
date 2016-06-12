@@ -52,6 +52,8 @@ This repository contains some useful learning source, it is more than wellcome t
 * [csdn knowledge lib](http://lib.csdn.net/)
 
 ## Big data
+* [Shiny and SparkR] (http://www.xueqing.tv/cms/article/197)
+
 
 ## Start-up
 
