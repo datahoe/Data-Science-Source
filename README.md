@@ -69,6 +69,8 @@ This repository contains some useful learning source, it is more than wellcome t
 ## Big data
 * [Shiny and SparkR] (http://www.xueqing.tv/cms/article/197)
 * [Integrate R with Hadoop] (http://www.r-bloggers.com/integrating-r-with-apache-hadoop/)
+* [AWS](http://www.analyticsvidhya.com/blog/2016/05/complete-tutorial-work-big-data-amazon-web-services-aws/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
+
 
 ## Start-up
 
