@@ -24,6 +24,10 @@ This repository contains some useful learning source, it is more than wellcome t
 
 ## Statistics
 * [stackexchange](http://stats.stackexchange.com/)
+* 
+
+## Text Mining
+*[wordcloud2] (http://lchiffon.github.io/2016/06/01/wordcloud2.html)
 
 ## Deep learning 
 #### Tensorflow
