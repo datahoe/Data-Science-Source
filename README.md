@@ -50,6 +50,7 @@ This repository contains some useful learning source, it is more than wellcome t
 
 ## Public data
 * [World Bank](http://beta.data.worldbank.org/)
+* [awesome-public-datasets] (https://github.com/caesar0301/awesome-public-datasets)
 
 
 ## Mis
