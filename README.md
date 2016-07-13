@@ -86,6 +86,7 @@ This repository contains some useful learning source, it is more than wellcome t
 
 * [AI Startups list](https://github.com/lipiji/AIStartups)
 * [paveiq] (https://www.paveiq.com/#)
+* [国云大数据] (http://www.data-god.com/)
 
 * [Machine learning tutorial] (https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 * 
