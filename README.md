@@ -95,6 +95,8 @@ This repository contains some useful learning source, it is more than wellcome t
 * [Imperial College data science Institute] (https://www.imperial.ac.uk/data-science/)
 * [Turing Institute] (https://turing.ac.uk/)
 * [Tsinghua University Data Science Institute] (http://www.ids.tsinghua.edu.cn/index.php#)
+* [Top10 data science master in U.S.A](http://www.analyticsvidhya.com/blog/2016/07/10-analytics-data-science-top-universities-masters-usa/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
+
  
 
 ## Online learning website
