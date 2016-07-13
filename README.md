@@ -80,6 +80,8 @@ This repository contains some useful learning source, it is more than wellcome t
 * [Integrate R with Hadoop] (http://www.r-bloggers.com/integrating-r-with-apache-hadoop/)
 * [AWS] (http://www.analyticsvidhya.com/blog/2016/05/complete-tutorial-work-big-data-amazon-web-services-aws/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 * [Big data landscape] (http://zixun.html5.qq.com/coolread/article?ch=060000&tabId=0&tagId=MttTagSource&docId=2609934859&showAttach=true&clientWidth=384&video_ch=003901&sc_id=x2topeA)
+* [sparklyr] (http://www.xueqing.tv/cms/article/233)
+
 
 
 ## Start-up
